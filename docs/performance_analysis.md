@@ -5,22 +5,17 @@
 ### Courses with price between $50 and $200
 
 
-| Course ID   | Title                                          | Price   |
-+=============+================================================+=========+
-| C001        | Practical MongoDB for Application Developers   | $100    |
-+---------+
-| C002        | Kubernetes Essentials for Modern Developers    | $100    |
-+---------+
-| C004        | Kubernetes Essentials for Modern Developers    | $150    |
-+---------+
-| C005        | Creating RESTful APIs with FastAPI             | $150    |
-+---------+
-| C006        | Image Processing & Computer Vision with OpenCV | $200    |
-+---------+
-| C701        | Using Git and GitHub for Team Collaboration    | $150    |
-+---------+
+| Course ID     | Title                                          | Price     |
+| ------------- | ---------------------------------------------- | --------: |
+| C001          | Practical MongoDB for Application Developers   |     \$100 |
+| C002          | Kubernetes Essentials for Modern Developers    |     \$100 |
+| C004          | Kubernetes Essentials for Modern Developers    |     \$150 |
+| C005          | Creating RESTful APIs with FastAPI             |     \$150 |
+| C006          | Image Processing & Computer Vision with OpenCV |     \$200 |
+| C701          | Using Git and GitHub for Team Collaboration    |     \$150 |
 
-# There are six courses that fall within the price range of $50 to $200. Two of these courses are priced at $100; Practical MongoDB for Application Developers and Kubernetes Essentials for Modern Developers. Three courses are priced at $150, including Kubernetes Essentials for Modern Developers (appearing again with a different course ID), Creating RESTful APIs with FastAPI, and Using Git and GitHub for Team Collaboration. The highest-priced course in this group is Image Processing & Computer Vision with OpenCV, which costs $200.
+
+There are six courses that fall within the price range of $50 to $200. Two of these courses are priced at $100; Practical MongoDB for Application Developers and Kubernetes Essentials for Modern Developers. Three courses are priced at $150, including Kubernetes Essentials for Modern Developers (appearing again with a different course ID), Creating RESTful APIs with FastAPI, and Using Git and GitHub for Team Collaboration. The highest-priced course in this group is Image Processing & Computer Vision with OpenCV, which costs $200.
 
 
 ### Users who joined in the last 6 months
