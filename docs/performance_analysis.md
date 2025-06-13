@@ -213,3 +213,42 @@
 | U014     | 0                 | 1                      |
 
 ### Some students have enrolled in multiple courses but submitted fewer assignments, while others have submitted assignments despite not being enrolled in any courses.
+
+## Summary: Query Optimization & Execution Stats
+| Metric                   | Details                                                                |
+| ---------------------------- | -------------------------------------------------------------------------- |
+| Execution Time           | `0 ms` – Query executed very quickly.                                      |
+| Total Documents Examined | `2` – MongoDB only scanned 2 documents to find the result.                 |
+| Index Used               | `title_1_category_1` – A compound index on `title` and `category` fields.  |
+| Query Type               | `Regex search` on title + `Equality match` on category.                    |
+| Winning Plan             | `IXSCAN` (Index Scan) → `FETCH` – Efficient use of index to retrieve docs. |
+| Index Efficiency         | High – Query used the appropriate compound index and avoided full scan.    |
+
+## Key Takeaways
+Efficient Query: The index on title and category was effectively used, avoiding a collection scan.
+Low Document Scan Count: Only 2 documents examined means minimal resource usage.
+Fast Execution: With 0 ms runtime, this is a highly optimized query.
+Regex Support in Index: The query used a case-insensitive regex on the title field, which was still index-supported thanks to the regex's nature and index ordering.
+
+
+## Summary: Query Optimization on enrollments Collection
+| Metric               | Details                                                 |
+| ------------------------ | ----------------------------------------------------------- |
+| Query Target         | `enrollments` collection                                    |
+| Query Condition      | `student_id = "U004"`                                       |
+| Execution Plan       | Index Scan (`IXSCAN`) followed by Fetch (`FETCH`)   |
+| Index Used           | `student_id_1`                                              |
+| Index Bounds         | `["U004", "U004"]` – Narrow scan using equality match       |
+| Documents Examined   | Not shown, but very likely minimal due to index use     |
+| Query Execution Time | Fast (exact time not specified, but near-instant)           |
+| Optimization Flags   | All optimization limits (`maxScansToExplode`, etc.) avoided |
+
+
+
+## Key Points
+Efficient Index Use: The query used the student_id_1 index to quickly locate matching enrollment documents.
+Precise Bounds: The bounds show that it searched exactly for "U004" with no range or full scan.
+Minimal Cost: Since student_id is likely a low-cardinality field and the query is exact-match, MongoDB didn't need to scan many documents.
+
+## Reference:
+Optimization implementation can be found in the eduhub_mongodb_project.ipynb, under Task 5.
