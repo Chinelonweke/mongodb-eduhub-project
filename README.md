@@ -215,7 +215,7 @@ This project is licensed under the MIT License.
 Feel free to use, modify, and distribute this project in accordance with the terms of the license.
 
 ## Contributors
-Siddiqa Lawan
+Chinelo Nweke
 
 ## Submission Details
 Due Date: Sunday, June 15, 2025, 11:59 PM WAT.
