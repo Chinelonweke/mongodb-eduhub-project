@@ -1,0 +1,380 @@
+[
+    {
+        "user_id": "U001",
+        "email": "adamsmith@example.net",
+        "first_name": "Jessica",
+        "last_name": "Reilly",
+        "date_joined": "2024-10-09T02:25:45",
+        "role": "instructor",
+        "profile": {
+            "bio": "Enthusiastic about technology and passionate about building practical, real-world solutions.",
+            "avatar": "https://api.dicebear.com/6.x/thumbs/svg?seed=Zenith",
+            "skills": [
+                "Python",
+                "APIs",
+                "MongoDB"
+            ]
+        },
+        "is_active": true
+    },
+    {
+        "user_id": "U002",
+        "email": "marcus88@example.com",
+        "first_name": "Tonya",
+        "last_name": "Fleming",
+        "date_joined": "2025-02-06T01:12:58",
+        "role": "instructor",
+        "profile": {
+            "bio": "Committed to shaping the future with clean, efficient code and well-crafted documentation.",
+            "avatar": "https://api.dicebear.com/6.x/thumbs/svg?seed=Shadow",
+            "skills": [
+                "ETL",
+                "JavaScript",
+                "Data Engineering"
+            ]
+        },
+        "is_active": false
+    },
+    {
+        "user_id": "U003",
+        "email": "kelly50@example.com",
+        "first_name": "Isaac",
+        "last_name": "Powell",
+        "date_joined": "2024-10-17T10:55:24",
+        "role": "instructor",
+        "profile": {
+            "bio": " Data is where my passion lies",
+            "avatar": "https://api.dicebear.com/6.x/thumbs/svg?seed=Krypton",
+            "skills": [
+                "Python",
+                "ETL",
+                "APIs"
+            ]
+        },
+        "is_active": false
+    },
+    {
+        "user_id": "U004",
+        "email": "kathleenhenderson@example.org",
+        "first_name": "Timothy",
+        "last_name": "Campbell",
+        "date_joined": "2025-05-25T14:51:43",
+        "role": "student",
+        "profile": {
+            "bio": "Aspiring developer with a growing interest in full-stack development and artificial intelligence.",
+            "avatar": "https://api.dicebear.com/6.x/thumbs/svg?seed=NovaX",
+            "skills": [
+                "Kubernetes",
+                "Cloud Computing",
+                "APIs"
+            ]
+        },
+        "is_active": false
+    },
+    {
+        "user_id": "U005",
+        "email": "kbartlett@example.com",
+        "first_name": "Amber",
+        "last_name": "Benson",
+        "date_joined": "2024-07-13T15:15:46",
+        "role": "student",
+        "profile": {
+            "bio": "Aspiring developer with a growing interest in full-stack development and artificial intelligence.",
+            "avatar": "https://api.dicebear.com/6.x/thumbs/svg?seed=Pulse",
+            "skills": [
+                "Machine Learning",
+                "Cloud Computing",
+                "Python"
+            ]
+        },
+        "is_active": false
+    },
+    {
+        "user_id": "U006",
+        "email": "wilsonrobert@example.net",
+        "first_name": "Denise",
+        "last_name": "Bradford",
+        "date_joined": "2024-07-04T00:21:45",
+        "role": "student",
+        "profile": {
+            "bio": "Enjoys breaking down complex concepts into simple, actionable lessons.",
+            "avatar": "https://api.dicebear.com/6.x/thumbs/svg?seed=Krypton",
+            "skills": [
+                "Cloud Computing",
+                "Kubernetes",
+                "ETL"
+            ]
+        },
+        "is_active": false
+    },
+    {
+        "user_id": "U007",
+        "email": "christinaperez@example.org",
+        "first_name": "William",
+        "last_name": "Jacobs",
+        "date_joined": "2024-06-12T12:02:35",
+        "role": "student",
+        "profile": {
+            "bio": "Analytical thinker who thrives on discovering patterns, insights, and trends in data.",
+            "avatar": "https://api.dicebear.com/6.x/thumbs/svg?seed=Zenith",
+            "skills": [
+                "ETL",
+                "Cloud Computing",
+                "MongoDB"
+            ]
+        },
+        "is_active": false
+    },
+    {
+        "user_id": "U008",
+        "email": "ufleming@example.org",
+        "first_name": "Christopher",
+        "last_name": "Davis",
+        "date_joined": "2025-04-06T02:54:09",
+        "role": "student",
+        "profile": {
+            "bio": "Enthusiastic about technology and passionate about building practical, real-world solutions.",
+            "avatar": "https://api.dicebear.com/6.x/thumbs/svg?seed=Synth",
+            "skills": [
+                "Cloud Computing",
+                "Kubernetes",
+                "SQL"
+            ]
+        },
+        "is_active": false
+    },
+    {
+        "user_id": "U009",
+        "email": "suttonrenee@example.com",
+        "first_name": "Michael",
+        "last_name": "Anderson",
+        "date_joined": "2025-02-26T21:48:17",
+        "role": "instructor",
+        "profile": {
+            "bio": "Aspiring developer with a growing interest in full-stack development and artificial intelligence.",
+            "avatar": "https://api.dicebear.com/6.x/thumbs/svg?seed=Quantum",
+            "skills": [
+                "Machine Learning",
+                "ETL",
+                "Cloud Computing"
+            ]
+        },
+        "is_active": true
+    },
+    {
+        "user_id": "U010",
+        "email": "shannon95@example.org",
+        "first_name": "Justin",
+        "last_name": "Sawyer",
+        "date_joined": "2024-06-17T08:44:51",
+        "role": "instructor",
+        "profile": {
+            "bio": "Enthusiastic about technology and passionate about building practical, real-world solutions.",
+            "avatar": "https://api.dicebear.com/6.x/thumbs/svg?seed=Cipher",
+            "skills": [
+                "Kubernetes",
+                "SQL",
+                "Data Engineering"
+            ]
+        },
+        "is_active": false
+    },
+    {
+        "user_id": "U011",
+        "email": "hartmanevan@example.org",
+        "first_name": "Antonio",
+        "last_name": "Wilkinson",
+        "date_joined": "2024-10-20T20:58:49",
+        "role": "instructor",
+        "profile": {
+            "bio": "Driven by a mission to empower others in launching impactful tech careers.",
+            "avatar": "https://api.dicebear.com/6.x/thumbs/svg?seed=Synth",
+            "skills": [
+                "Python",
+                "JavaScript",
+                "Data Engineering"
+            ]
+        },
+        "is_active": false
+    },
+    {
+        "user_id": "U012",
+        "email": "tmcconnell@example.org",
+        "first_name": "Ashley",
+        "last_name": "Garrett",
+        "date_joined": "2024-06-25T17:32:52",
+        "role": "student",
+        "profile": {
+            "bio": "Enthusiastic about technology and passionate about building practical, real-world solutions.",
+            "avatar": "https://api.dicebear.com/6.x/thumbs/svg?seed=NovaX",
+            "skills": [
+                "JavaScript",
+                "SQL",
+                "Data Engineering"
+            ]
+        },
+        "is_active": true
+    },
+    {
+        "user_id": "U013",
+        "email": "anthonydominguez@example.net",
+        "first_name": "Andrea",
+        "last_name": "Simmons",
+        "date_joined": "2025-04-03T10:23:04",
+        "role": "instructor",
+        "profile": {
+            "bio": "Seasoned instructor focused on guiding and mentoring the next wave of tech talent.",
+            "avatar": "https://api.dicebear.com/6.x/thumbs/svg?seed=Zenith",
+            "skills": [
+                "Data Engineering",
+                "JavaScript",
+                "Cloud Computing"
+            ]
+        },
+        "is_active": true
+    },
+    {
+        "user_id": "U014",
+        "email": "preeves@example.com",
+        "first_name": "Erin",
+        "last_name": "Larson",
+        "date_joined": "2025-04-07T06:25:13",
+        "role": "student",
+        "profile": {
+            "bio": "Aspiring developer with a growing interest in full-stack development and artificial intelligence.",
+            "avatar": "https://api.dicebear.com/6.x/thumbs/svg?seed=Shadow",
+            "skills": [
+                "Cloud Computing",
+                "Python",
+                "Kubernetes"
+            ]
+        },
+        "is_active": false
+    },
+    {
+        "user_id": "U015",
+        "email": "jessicalewis@example.com",
+        "first_name": "Laura",
+        "last_name": "Wood",
+        "date_joined": "2024-09-03T09:54:47",
+        "role": "instructor",
+        "profile": {
+            "bio": "Seasoned instructor focused on guiding and mentoring the next wave of tech talent.",
+            "avatar": "https://api.dicebear.com/6.x/thumbs/svg?seed=Krypton",
+            "skills": [
+                "SQL",
+                "ETL",
+                "JavaScript"
+            ]
+        },
+        "is_active": false
+    },
+    {
+        "user_id": "U016",
+        "email": "collinsaunders@example.net",
+        "first_name": "Justin",
+        "last_name": "Gray",
+        "date_joined": "2024-07-17T14:57:34",
+        "role": "student",
+        "profile": {
+            "bio": "Driven by a mission to empower others in launching impactful tech careers.",
+            "avatar": "https://api.dicebear.com/6.x/thumbs/svg?seed=Photon",
+            "skills": [
+                "Machine Learning",
+                "Data Engineering",
+                "Kubernetes"
+            ]
+        },
+        "is_active": true
+    },
+    {
+        "user_id": "U017",
+        "email": "whitakerjacqueline@example.org",
+        "first_name": "Cheryl",
+        "last_name": "Hahn",
+        "date_joined": "2024-10-12T01:36:23",
+        "role": "student",
+        "profile": {
+            "bio": "Enthusiastic about technology and passionate about building practical, real-world solutions.",
+            "avatar": "https://api.dicebear.com/6.x/thumbs/svg?seed=Pulse",
+            "skills": [
+                "Python",
+                "Cloud Computing",
+                "ETL"
+            ]
+        },
+        "is_active": false
+    },
+    {
+        "user_id": "U018",
+        "email": "malonetony@example.org",
+        "first_name": "Anthony",
+        "last_name": "Horne",
+        "date_joined": "2025-03-08T02:29:47",
+        "role": "student",
+        "profile": {
+            "bio": "Seasoned instructor focused on guiding and mentoring the next wave of tech talent.",
+            "avatar": "https://api.dicebear.com/6.x/thumbs/svg?seed=Quantum",
+            "skills": [
+                "ETL",
+                "Machine Learning",
+                "APIs"
+            ]
+        },
+        "is_active": false
+    },
+    {
+        "user_id": "U019",
+        "email": "ericabrown@example.org",
+        "first_name": "Eric",
+        "last_name": "Kim",
+        "date_joined": "2024-08-10T16:49:56",
+        "role": "student",
+        "profile": {
+            "bio": "Driven by a mission to empower others in launching impactful tech careers.",
+            "avatar": "https://api.dicebear.com/6.x/thumbs/svg?seed=Shadow",
+            "skills": [
+                "Machine Learning",
+                "SQL",
+                "JavaScript"
+            ]
+        },
+        "is_active": true
+    },
+    {
+        "user_id": "U020",
+        "email": "watsonjeffery@example.com",
+        "first_name": "Peter",
+        "last_name": "Smith",
+        "date_joined": "2025-03-13T22:57:47",
+        "role": "student",
+        "profile": {
+            "bio": "Driven by a mission to empower others in launching impactful tech careers.",
+            "avatar": "https://api.dicebear.com/6.x/thumbs/svg?seed=Drift",
+            "skills": [
+                "APIs",
+                "Machine Learning",
+                "ETL"
+            ]
+        },
+        "is_active": false
+    },
+    {
+        "user_id": "U350",
+        "email": "nwekechinelo@yahoo.com",
+        "first_name": "Chinelo",
+        "last_name": "Nweke",
+        "date_joined": "2025-06-12T15:48:08.953000",
+        "role": "student",
+        "profile": {
+            "bio": "Excited to learn and grow in the field of data",
+            "avatar": "https://api.dicebear.com/6.x/thumbs/svg?seed=Zenith",
+            "skills": [
+                "Python",
+                "ETL",
+                "SQL"
+            ]
+        },
+        "is_active": true
+    }
+]

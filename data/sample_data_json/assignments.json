@@ -1,0 +1,102 @@
+[
+    {
+        "assignment_id": "A001",
+        "course_id": "C003",
+        "lesson_id": "L021",
+        "title": "Assignment 1: Foundations of AWS Cloud Services",
+        "description": "Than deal lose easy others. Short enter offer resource interest big either.",
+        "due_date": "2025-06-19T15:31:03.575000",
+        "max_score": 100,
+        "created_at": "2025-06-12T15:31:03.575000"
+    },
+    {
+        "assignment_id": "A002",
+        "course_id": "C001",
+        "lesson_id": "L003",
+        "title": "Assignment 2: Foundations of AWS Cloud Services",
+        "description": "First leader into course speech against she end. Street avoid walk believe certain involve. Sure break money fund along student sometimes realize.",
+        "due_date": "2025-06-21T15:31:03.575000",
+        "max_score": 100,
+        "created_at": "2025-06-12T15:31:03.575000"
+    },
+    {
+        "assignment_id": "A003",
+        "course_id": "C002",
+        "lesson_id": "L001",
+        "title": "Assignment 3: Effective Unit Testing in Python Projects",
+        "description": "Foot key enter firm know.",
+        "due_date": "2025-06-22T15:31:03.575000",
+        "max_score": 100,
+        "created_at": "2025-06-12T15:31:03.575000"
+    },
+    {
+        "assignment_id": "A004",
+        "course_id": "C007",
+        "lesson_id": "L008",
+        "title": "Assignment 4: Scalable Data Processing with Apache Spark",
+        "description": "Affect impact let teacher. Career everything heart picture place thing. According strong reason particularly involve.",
+        "due_date": "2025-06-22T15:31:03.575000",
+        "max_score": 100,
+        "created_at": "2025-06-12T15:31:03.575000"
+    },
+    {
+        "assignment_id": "A005",
+        "course_id": "C002",
+        "lesson_id": "L004",
+        "title": "Assignment 5: Scalable Data Processing with Apache Spark",
+        "description": "Your spring talk range specific statement. Trade million despite simply.",
+        "due_date": "2025-06-21T15:31:03.575000",
+        "max_score": 100,
+        "created_at": "2025-06-12T15:31:03.575000"
+    },
+    {
+        "assignment_id": "A006",
+        "course_id": "C008",
+        "lesson_id": "L022",
+        "title": "Assignment 6: Kubernetes Essentials for Modern Developers",
+        "description": "While analysis party audience skin decision story. Thousand environmental reflect total.",
+        "due_date": "2025-06-20T15:31:03.576000",
+        "max_score": 100,
+        "created_at": "2025-06-12T15:31:03.576000"
+    },
+    {
+        "assignment_id": "A007",
+        "course_id": "C003",
+        "lesson_id": "L016",
+        "title": "Assignment 7: Scalable Data Processing with Apache Spark",
+        "description": "Low structure tough evidence someone home. Home young west between away. Choose newspaper meet me camera current.",
+        "due_date": "2025-06-23T15:31:03.576000",
+        "max_score": 100,
+        "created_at": "2025-06-12T15:31:03.576000"
+    },
+    {
+        "assignment_id": "A008",
+        "course_id": "C006",
+        "lesson_id": "L014",
+        "title": "Assignment 8: Visualizing Data Insights Using Seaborn",
+        "description": "Old approach as approach. Plant go she yeah part before. Close mouth know decade. Page themselves hair former.",
+        "due_date": "2025-06-16T15:31:03.576000",
+        "max_score": 100,
+        "created_at": "2025-06-12T15:31:03.576000"
+    },
+    {
+        "assignment_id": "A009",
+        "course_id": "C001",
+        "lesson_id": "L015",
+        "title": "Assignment 9: Data Engineering Projects in Python",
+        "description": "Sell through past box so tree president according. Treatment record actually whose travel camera. Adult thought face describe.",
+        "due_date": "2025-06-25T15:31:03.576000",
+        "max_score": 100,
+        "created_at": "2025-06-12T15:31:03.576000"
+    },
+    {
+        "assignment_id": "A010",
+        "course_id": "C002",
+        "lesson_id": "L004",
+        "title": "Assignment 10: Kubernetes Essentials for Modern Developers",
+        "description": "Wrong drug push four easy opportunity data story. Skin join or so movie guy.",
+        "due_date": "2025-06-25T15:31:03.576000",
+        "max_score": 100,
+        "created_at": "2025-06-12T15:31:03.576000"
+    }
+]

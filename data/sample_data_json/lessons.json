@@ -1,0 +1,326 @@
+[
+    {
+        "lesson_id": "L001",
+        "course_id": "C002",
+        "title": "Lesson 1: Foundations of AWS Cloud Services",
+        "content": "Set land involve whole small store. Area continue send significant difference know. Past stock raise never do half. Improve beat end its plant peace.",
+        "video_url": "https://example.com/video/1",
+        "resources": [
+            "https://resource.com/case",
+            "https://resource.com/weight"
+        ],
+        "order": 1,
+        "created_at": "2025-06-12T15:30:57.894000"
+    },
+    {
+        "lesson_id": "L002",
+        "course_id": "C004",
+        "title": "Lesson 2: Foundations of AWS Cloud Services",
+        "content": "Rise sense argue spring trip today break. True represent happy plan bank knowledge minute. Foreign become couple series hour evidence item. Hand pass simple ok how. Heart number figure himself green claim include. Most month book main by institution memory good.",
+        "video_url": "https://example.com/video/2",
+        "resources": [
+            "https://resource.com/someone",
+            "https://resource.com/poor"
+        ],
+        "order": 2,
+        "created_at": "2025-06-12T15:30:57.894000"
+    },
+    {
+        "lesson_id": "L004",
+        "course_id": "C002",
+        "title": "Lesson 4: Effective Unit Testing in Python Projects",
+        "content": "Add stop best market talk other. View stage kid national firm. Stand under my probably order next strategy.",
+        "video_url": "https://example.com/video/4",
+        "resources": [
+            "https://resource.com/score",
+            "https://resource.com/sing"
+        ],
+        "order": 4,
+        "created_at": "2025-06-12T15:30:57.895000"
+    },
+    {
+        "lesson_id": "L005",
+        "course_id": "C007",
+        "title": "Lesson 5: Effective Unit Testing in Python Projects",
+        "content": "Ago action especially candidate. Father city light really those sense little. Agent affect enter door it prepare. Close action account election.",
+        "video_url": "https://example.com/video/5",
+        "resources": [
+            "https://resource.com/bed",
+            "https://resource.com/into"
+        ],
+        "order": 5,
+        "created_at": "2025-06-12T15:30:57.896000"
+    },
+    {
+        "lesson_id": "L006",
+        "course_id": "C002",
+        "title": "Lesson 6: Effective Unit Testing in Python Projects",
+        "content": "Just newspaper success offer adult road leg. Blue identify work heavy network animal. Member event throw through computer last source. General test painting trial letter. Party add series sign run I feel color. Information more its impact such.",
+        "video_url": "https://example.com/video/6",
+        "resources": [
+            "https://resource.com/money",
+            "https://resource.com/finally"
+        ],
+        "order": 6,
+        "created_at": "2025-06-12T15:30:57.896000"
+    },
+    {
+        "lesson_id": "L007",
+        "course_id": "C007",
+        "title": "Lesson 7: Practical MongoDB for Application Developers",
+        "content": "Edge until ever. Down probably throughout arrive mission mouth. Former money simply. Wrong plant surface stage.",
+        "video_url": "https://example.com/video/7",
+        "resources": [
+            "https://resource.com/knowledge",
+            "https://resource.com/report"
+        ],
+        "order": 7,
+        "created_at": "2025-06-12T15:30:57.896000"
+    },
+    {
+        "lesson_id": "L008",
+        "course_id": "C007",
+        "title": "Lesson 8: Creating RESTful APIs with FastAPI",
+        "content": "North perhaps decision behind stock more win. Many cup wind able fear. Watch indeed leader even company. Mind involve author exactly less.",
+        "video_url": "https://example.com/video/8",
+        "resources": [
+            "https://resource.com/and",
+            "https://resource.com/land"
+        ],
+        "order": 8,
+        "created_at": "2025-06-12T15:30:57.897000"
+    },
+    {
+        "lesson_id": "L009",
+        "course_id": "C006",
+        "title": "Lesson 9: Image Processing & Computer Vision with OpenCV",
+        "content": "Site mind each hotel time. Finish six security service election yard. Protect test cut mean. Her yet whatever design level.",
+        "video_url": "https://example.com/video/9",
+        "resources": [
+            "https://resource.com/meet",
+            "https://resource.com/let"
+        ],
+        "order": 9,
+        "created_at": "2025-06-12T15:30:57.898000"
+    },
+    {
+        "lesson_id": "L010",
+        "course_id": "C006",
+        "title": "Lesson 10: Visualizing Data Insights Using Seaborn",
+        "content": "Blue yet door few. Hotel environmental should usually. Tonight condition game professor window. Budget research future knowledge along there according. Feel figure certainly mother agree large.",
+        "video_url": "https://example.com/video/10",
+        "resources": [
+            "https://resource.com/president",
+            "https://resource.com/data"
+        ],
+        "order": 10,
+        "created_at": "2025-06-12T15:30:57.898000"
+    },
+    {
+        "lesson_id": "L011",
+        "course_id": "C008",
+        "title": "Lesson 11: Image Processing & Computer Vision with OpenCV",
+        "content": "Prevent account long series day trade only speak. Start above science onto purpose. Economic fill how indeed relationship lay star. Fall decade positive pick radio thought develop. International example meet feel window travel deep. Represent hundred black toward chance forward.",
+        "video_url": "https://example.com/video/11",
+        "resources": [
+            "https://resource.com/interest",
+            "https://resource.com/single"
+        ],
+        "order": 11,
+        "created_at": "2025-06-12T15:30:57.899000"
+    },
+    {
+        "lesson_id": "L012",
+        "course_id": "C006",
+        "title": "Lesson 12: Version Control & Teamwork with Git and GitHub",
+        "content": "Reason member name candidate inside. Meeting budget response why set. Explain anything deal peace create.",
+        "video_url": "https://example.com/video/12",
+        "resources": [
+            "https://resource.com/debate",
+            "https://resource.com/up"
+        ],
+        "order": 12,
+        "created_at": "2025-06-12T15:30:57.899000"
+    },
+    {
+        "lesson_id": "L013",
+        "course_id": "C003",
+        "title": "Lesson 13: Containerized App Deployment with Docker",
+        "content": "Way your measure down serious various service. Side better coach provide. Himself middle carry.",
+        "video_url": "https://example.com/video/13",
+        "resources": [
+            "https://resource.com/seek",
+            "https://resource.com/without"
+        ],
+        "order": 13,
+        "created_at": "2025-06-12T15:30:57.900000"
+    },
+    {
+        "lesson_id": "L014",
+        "course_id": "C006",
+        "title": "Lesson 14: Foundations of AWS Cloud Services",
+        "content": "Citizen focus nation us either candidate school organization. Parent bill Democrat it start. Road important statement.",
+        "video_url": "https://example.com/video/14",
+        "resources": [
+            "https://resource.com/without",
+            "https://resource.com/or"
+        ],
+        "order": 14,
+        "created_at": "2025-06-12T15:30:57.900000"
+    },
+    {
+        "lesson_id": "L015",
+        "course_id": "C001",
+        "title": "Lesson 15: Image Processing & Computer Vision with OpenCV",
+        "content": "Budget current feel present. Mouth nation still court key. Campaign these thus suddenly daughter and. These individual me year just arrive threat. Maintain recently rule many information almost policy learn.",
+        "video_url": "https://example.com/video/15",
+        "resources": [
+            "https://resource.com/management",
+            "https://resource.com/avoid"
+        ],
+        "order": 15,
+        "created_at": "2025-06-12T15:30:57.900000"
+    },
+    {
+        "lesson_id": "L016",
+        "course_id": "C003",
+        "title": "Lesson 16: Containerized App Deployment with Docker",
+        "content": "Price strategy establish wish name. Three west trouble use. General manage international marriage. Both dream newspaper scientist toward.",
+        "video_url": "https://example.com/video/16",
+        "resources": [
+            "https://resource.com/drop",
+            "https://resource.com/life"
+        ],
+        "order": 16,
+        "created_at": "2025-06-12T15:30:57.901000"
+    },
+    {
+        "lesson_id": "L017",
+        "course_id": "C007",
+        "title": "Lesson 17: Intro to Machine Learning with scikit-learn",
+        "content": "Morning can modern. Until people plant far book white. First different high above actually.",
+        "video_url": "https://example.com/video/17",
+        "resources": [
+            "https://resource.com/others",
+            "https://resource.com/culture"
+        ],
+        "order": 17,
+        "created_at": "2025-06-12T15:30:57.901000"
+    },
+    {
+        "lesson_id": "L018",
+        "course_id": "C004",
+        "title": "Lesson 18: Practical MongoDB for Application Developers",
+        "content": "History name eat young with probably. Everybody minute information kind expect boy. As least word improve measure range word. Toward on collection start. Scene same career important town operation economic.",
+        "video_url": "https://example.com/video/18",
+        "resources": [
+            "https://resource.com/full",
+            "https://resource.com/occur"
+        ],
+        "order": 18,
+        "created_at": "2025-06-12T15:30:57.901000"
+    },
+    {
+        "lesson_id": "L019",
+        "course_id": "C002",
+        "title": "Lesson 19: Building Neural Networks with TensorFlow",
+        "content": "Century few despite learn unit produce product. Professional identify apply bank true. Rise wall seek long. Most rise chance true.",
+        "video_url": "https://example.com/video/19",
+        "resources": [
+            "https://resource.com/black",
+            "https://resource.com/growth"
+        ],
+        "order": 19,
+        "created_at": "2025-06-12T15:30:57.902000"
+    },
+    {
+        "lesson_id": "L020",
+        "course_id": "C004",
+        "title": "Lesson 20: Intro to Machine Learning with scikit-learn",
+        "content": "Program professional sing fight establish pick among. Environmental order statement. Admit while institution in affect result better. Pattern election ever kind heart. Water suddenly glass resource event book.",
+        "video_url": "https://example.com/video/20",
+        "resources": [
+            "https://resource.com/company",
+            "https://resource.com/keep"
+        ],
+        "order": 20,
+        "created_at": "2025-06-12T15:30:57.902000"
+    },
+    {
+        "lesson_id": "L021",
+        "course_id": "C003",
+        "title": "Lesson 21: Writing Clean Code & Mastering Refactoring",
+        "content": "Full economic prove detail little present live. Maintain when happen mind likely. High determine accept government side. Operation voice structure number writer since guy participant.",
+        "video_url": "https://example.com/video/21",
+        "resources": [
+            "https://resource.com/thus",
+            "https://resource.com/think"
+        ],
+        "order": 21,
+        "created_at": "2025-06-12T15:30:57.903000"
+    },
+    {
+        "lesson_id": "L022",
+        "course_id": "C008",
+        "title": "Lesson 22: Image Processing & Computer Vision with OpenCV",
+        "content": "Several news sport lay. Feel animal argue anything enough else heart. Public feel low future certainly right. Mr way buy value. Ahead well onto detail four.",
+        "video_url": "https://example.com/video/22",
+        "resources": [
+            "https://resource.com/some",
+            "https://resource.com/sister"
+        ],
+        "order": 22,
+        "created_at": "2025-06-12T15:30:57.903000"
+    },
+    {
+        "lesson_id": "L023",
+        "course_id": "C001",
+        "title": "Lesson 23: Creating RESTful APIs with FastAPI",
+        "content": "Traditional suddenly deal act. Decide night mind. This maintain item smile amount. Message late rather wall. Into power hope receive girl.",
+        "video_url": "https://example.com/video/23",
+        "resources": [
+            "https://resource.com/fact",
+            "https://resource.com/see"
+        ],
+        "order": 23,
+        "created_at": "2025-06-12T15:30:57.904000"
+    },
+    {
+        "lesson_id": "L024",
+        "course_id": "C008",
+        "title": "Lesson 24: Image Processing & Computer Vision with OpenCV",
+        "content": "Commercial senior career once. Product business pretty girl suffer. Green answer set teacher foot authority hold. Ready guy lawyer other.",
+        "video_url": "https://example.com/video/24",
+        "resources": [
+            "https://resource.com/throughout",
+            "https://resource.com/trip"
+        ],
+        "order": 24,
+        "created_at": "2025-06-12T15:30:57.905000"
+    },
+    {
+        "lesson_id": "L025",
+        "course_id": "C006",
+        "title": "Lesson 25: Effective Unit Testing in Python Projects",
+        "content": "Add start current bad the almost can. System affect civil. Other training leg city site scene history media. Wish range war similar maybe. Baby threat few describe base miss. Trouble she impact figure hear mind task.",
+        "video_url": "https://example.com/video/25",
+        "resources": [
+            "https://resource.com/development",
+            "https://resource.com/suffer"
+        ],
+        "order": 25,
+        "created_at": "2025-06-12T15:30:57.905000"
+    },
+    {
+        "lesson_id": "L021",
+        "course_id": "C005",
+        "title": "Data Engineering Projects in Python",
+        "content": "Implement DevOps workflows to automate deployment and monitor infrastructure reliably",
+        "duration": 19,
+        "resources": [
+            "https://example.com/resource1",
+            "https://example.com/resource2"
+        ],
+        "created_at": "2025-06-12T16:15:16.245000"
+    }
+]

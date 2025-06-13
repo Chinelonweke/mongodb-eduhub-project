@@ -1,0 +1,229 @@
+[
+    {
+        "course_id": "C001",
+        "title": "Practical MongoDB for Application Developers",
+        "description": "Build scalable APIs and microservices using modern frameworks like Flask and Django.",
+        "instructor_id": "U010",
+        "category": "AI",
+        "level": "intermediate",
+        "duration": 30,
+        "price": 100,
+        "tags": [
+            "career-ready",
+            "community-support",
+            "industry-aligned"
+        ],
+        "created_at": "2025-04-12T21:15:36",
+        "updated_at": "2025-06-12T15:19:55.767000",
+        "is_published": false,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                7.571491096993339,
+                6.529966396417095
+            ]
+        }
+    },
+    {
+        "course_id": "C002",
+        "title": "Kubernetes Essentials for Modern Developers",
+        "description": "Design and build robust data pipelines using industry-standard tools and best practices.",
+        "instructor_id": "U013",
+        "category": "Data Engineering",
+        "level": "advanced",
+        "duration": 18,
+        "price": 100,
+        "tags": [
+            "hands-on-learning",
+            "skills-driven",
+            "certificate-included"
+        ],
+        "created_at": "2025-02-02T23:00:25",
+        "updated_at": "2025-06-12T15:19:55.767000",
+        "is_published": false,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                7.571491096993339,
+                6.529966396417095
+            ]
+        }
+    },
+    {
+        "course_id": "C003",
+        "title": "Kubernetes Essentials for Modern Developers",
+        "description": "Process and analyze large-scale data with platforms such as Apache Spark and Hadoop.",
+        "instructor_id": "U015",
+        "category": "Data Engineering",
+        "level": "beginner",
+        "duration": 42,
+        "price": 250,
+        "tags": [
+            "hands-on-learning",
+            "project-based",
+            "interactive-lessons"
+        ],
+        "created_at": "2025-04-01T21:48:16",
+        "updated_at": "2025-06-12T15:19:55.768000",
+        "is_published": true,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                7.571491096993339,
+                6.529966396417095
+            ]
+        }
+    },
+    {
+        "course_id": "C004",
+        "title": "Kubernetes Essentials for Modern Developers",
+        "description": "Process and analyze large-scale data with platforms such as Apache Spark and Hadoop.",
+        "instructor_id": "U013",
+        "category": "Data Engineering",
+        "level": "beginner",
+        "duration": 35,
+        "price": 150,
+        "tags": [
+            "skills-driven",
+            "career-guidance",
+            "lifetime-access"
+        ],
+        "created_at": "2025-03-14T21:25:24",
+        "updated_at": "2025-06-12T15:19:55.768000",
+        "is_published": false,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                7.571491096993339,
+                6.529966396417095
+            ]
+        }
+    },
+    {
+        "course_id": "C005",
+        "title": "Creating RESTful APIs with FastAPI",
+        "description": "Implement DevOps workflows to automate deployment and monitor infrastructure reliably.",
+        "instructor_id": "U009",
+        "category": "AI",
+        "level": "advanced",
+        "duration": 37,
+        "price": 150,
+        "tags": [
+            "career-ready",
+            "guided-video-series",
+            "downloadable-resources"
+        ],
+        "created_at": "2025-05-25T21:24:29",
+        "updated_at": "2025-06-12T15:19:55.768000",
+        "is_published": true,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                7.571491096993339,
+                6.529966396417095
+            ]
+        }
+    },
+    {
+        "course_id": "C006",
+        "title": "Image Processing & Computer Vision with OpenCV",
+        "description": "Kickstart your AI journey by creating deep learning models with neural networks.",
+        "instructor_id": "U010",
+        "category": "Web Development",
+        "level": "advanced",
+        "duration": 39,
+        "price": 200,
+        "tags": [
+            "downloadable-resources",
+            "career-guidance",
+            "project-based",
+            "career-growth",
+            "lifetime-access"
+        ],
+        "created_at": "2025-03-05T11:31:43",
+        "updated_at": "2025-06-12T15:19:55.768000",
+        "is_published": false,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                7.571491096993339,
+                6.529966396417095
+            ]
+        }
+    },
+    {
+        "course_id": "C007",
+        "title": "Visualizing Data Insights Using Seaborn",
+        "description": "Tackle real-world data engineering scenarios to build practical problem-solving skills.",
+        "instructor_id": "U011",
+        "category": "Data Engineering",
+        "level": "advanced",
+        "duration": 52,
+        "price": 0,
+        "tags": [
+            "built-in-quizzes",
+            "career-ready",
+            "beginner-friendly"
+        ],
+        "created_at": "2025-04-09T08:04:01",
+        "updated_at": "2025-06-12T15:19:55.768000",
+        "is_published": false,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                7.571491096993339,
+                6.529966396417095
+            ]
+        }
+    },
+    {
+        "course_id": "C008",
+        "title": "Version Control & Teamwork with Git and GitHub",
+        "description": "Kickstart your AI journey by creating deep learning models with neural networks.",
+        "instructor_id": "U015",
+        "category": "DevOps",
+        "level": "advanced",
+        "duration": 34,
+        "price": 0,
+        "tags": [
+            "career-ready",
+            "built-in-quizzes",
+            "career-guidance"
+        ],
+        "created_at": "2025-01-11T04:38:19",
+        "updated_at": "2025-06-12T15:19:55.768000",
+        "is_published": true,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                7.571491096993339,
+                6.529966396417095
+            ]
+        }
+    },
+    {
+        "course_id": "C701",
+        "title": "Using Git and GitHub for Team Collaboration",
+        "description": "Master team workflows with Git and GitHub",
+        "instructor_id": "U001",
+        "category": "Machine Learning",
+        "level": "beginner",
+        "duration": 60,
+        "price": 150,
+        "tags": [
+            "project-based",
+            "career-ready",
+            "interactive"
+        ],
+        "created_at": "2025-06-12T16:06:25.103000",
+        "updated_at": "2025-06-12T16:06:25.103000",
+        "is_published": true,
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                7.571491096993339,
+                6.529966396417095
+            ]
+        }
+    }
+]
