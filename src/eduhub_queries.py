@@ -11,7 +11,7 @@ import time
 
 # Connect to MongoDB instance running locally
 
-connection_string = "mongodb+srv://siddiqalawan:QHTmw1FYbuH4G9BT@alt-cluster.jjgozve.mongodb.net/?retryWrites=true&w=majority&appName=Alt-cluster"
+connection_string = connection_string = "mongodb+srv://nwekechinelo25:MjJa0wGYFKPXPWHS@alt-cluster.ra7vmvj.mongodb.net/?retryWrites=true&w=majority&appName=Alt-cluster"
 client = MongoClient(connection_string)
 db = client["eduhub"]
 
@@ -239,7 +239,7 @@ for item in results:
     print(f"Category: {item['_id']} → Enrollments: {item['total_enrollments']}")
 
 
-    
+
 # 16. Student engagement metric
 
 # 1. Number of courses enrolled per student
