@@ -7,13 +7,14 @@ from pymongo.errors import DuplicateKeyError, WriteError, WriteConcernError
 from datetime import datetime, timedelta
 import random
 import time
+from dotenv import load_dotenv
+import os 
 
+# Load environment variables from .env file
+load_dotenv()
 
-# Connect to MongoDB instance running locally
-
-connection_string = connection_string = "mongodb+srv://nwekechinelo25:MjJa0wGYFKPXPWHS@alt-cluster.ra7vmvj.mongodb.net/?retryWrites=true&w=majority&appName=Alt-cluster"
-client = MongoClient(connection_string)
-db = client["eduhub"]
+# Get the MongoDB connection string from environment
+connection_string = os.getenv("MONGODB_URI")
 
 # Define collection handles for easy access
 users_col = db["users"]
