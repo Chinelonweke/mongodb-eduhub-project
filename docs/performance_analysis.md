@@ -7,12 +7,12 @@
 
 | Course ID     | Title                                          | Price     |
 | ------------- | ---------------------------------------------- | --------: |
-| C001          | Practical MongoDB for Application Developers   |     \$100 |
-| C002          | Kubernetes Essentials for Modern Developers    |     \$100 |
-| C004          | Kubernetes Essentials for Modern Developers    |     \$150 |
-| C005          | Creating RESTful APIs with FastAPI             |     \$150 |
-| C006          | Image Processing & Computer Vision with OpenCV |     \$200 |
-| C701          | Using Git and GitHub for Team Collaboration    |     \$150 |
+| C001          | Practical MongoDB for Application Developers   |     $100 |
+| C002          | Kubernetes Essentials for Modern Developers    |     $100 |
+| C004          | Kubernetes Essentials for Modern Developers    |     $150 |
+| C005          | Creating RESTful APIs with FastAPI             |     $150 |
+| C006          | Image Processing & Computer Vision with OpenCV |     $200 |
+| C701          | Using Git and GitHub for Team Collaboration    |     $150 |
 
 
 # There are six courses that fall within the price range of $50 to $200. Two of these courses are priced at $100; Practical MongoDB for Application Developers and Kubernetes Essentials for Modern Developers. Three courses are priced at $150, including Kubernetes Essentials for Modern Developers (appearing again with a different course ID), Creating RESTful APIs with FastAPI, and Using Git and GitHub for Team Collaboration. The highest-priced course in this group is Image Processing & Computer Vision with OpenCV, which costs $200.
@@ -90,6 +90,7 @@
 | C008      | Version Control & Teamwork with Git and GitHub | Not Available  |
 | C701      | Using Git and GitHub for Team Collaboration    | Not Available  |
 
+# Ratings not available
 
 ### Course by Category
 
@@ -101,6 +102,7 @@
 | Web Development  | 1             |
 | DevOps           | 1             |
 
+# The Data Engineering category has the most courses with 4, followed by AI with 2, while Machine Learning, Web Development, and DevOps each have 1 course.
 
 # 2. Student Performance Analysis
 
@@ -118,8 +120,9 @@
 | U008       | Not Available |
 | U016       | Not Available |
 | U014       | Not Available |
+# Two students have an average grade of 90.0, while the rest have no available grade data.
 
-### Completion rate by courses
+### Completion rate by courses (Data not available)
 
 ### Top performing Students (Top 5)
 
@@ -143,6 +146,8 @@
 | U011           | 2               |
 | U010           | 5               |
 
+# Instructor U010 has taught the most students (5), followed by U013 with 3 students, while others have taught between 1 and 2 students each.
+
 
 ### Average rating per Instructor
 
@@ -155,6 +160,8 @@
 | U011          | Not Available  |
 | U015          | Not Available  |
 
+# Data not available
+
 ### Revenue generated per Instructors
 
 | instructor_id | total_revenue |
@@ -166,12 +173,17 @@
 | U009           | 150.0          |
 | U011           | 0.0            |
 
+# Instructor U010 has generated the highest revenue at \$700, followed by U013 with \$550, while U011 generated no revenue.
+
+
 # 4. Advanced Analytics
 
 ### Monthly enrollment trends
 | Year-Month | Total Enrollments |
 | ---------- | ----------------- |
 | None-None  | 15                |
+
+# The enrollment data shows a total of 15 enrollments, but the year and month information is not available.
 
 ### Most popular course categories
 | Category         | Total Enrollments |
@@ -181,3 +193,23 @@
 | Web Development  | 2                 |
 | DevOps           | 1                 |
 | Machine Learning | 1                 |
+
+# Data Engineering has the highest number of enrollments at 7, with AI next at 4, and Web Development, DevOps, and Machine Learning having fewer enrollments.
+
+### Student engagement metrics
+| user_id | courses_enrolled | assignments_submitted |
+| -------- | ----------------- | ---------------------- |
+| U350     | 1                 | 0                      |
+| U020     | 1                 | 1                      |
+| U007     | 2                 | 1                      |
+| U018     | 3                 | 0                      |
+| U017     | 2                 | 1                      |
+| U012     | 3                 | 2                      |
+| U006     | 2                 | 1                      |
+| U016     | 1                 | 1                      |
+| U008     | 0                 | 1                      |
+| U004     | 0                 | 2                      |
+| U005     | 0                 | 1                      |
+| U014     | 0                 | 1                      |
+
+# Some students have enrolled in multiple courses but submitted fewer assignments, while others have submitted assignments despite not being enrolled in any courses.
