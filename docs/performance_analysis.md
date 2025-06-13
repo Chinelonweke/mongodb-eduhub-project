@@ -15,7 +15,7 @@
 | C701          | Using Git and GitHub for Team Collaboration    |     $150 |
 
 
-# There are six courses that fall within the price range of $50 to $200. Two of these courses are priced at $100; Practical MongoDB for Application Developers and Kubernetes Essentials for Modern Developers. Three courses are priced at $150, including Kubernetes Essentials for Modern Developers (appearing again with a different course ID), Creating RESTful APIs with FastAPI, and Using Git and GitHub for Team Collaboration. The highest-priced course in this group is Image Processing & Computer Vision with OpenCV, which costs $200.
+### There are six courses that fall within the price range of $50 to $200. Two of these courses are priced at $100; Practical MongoDB for Application Developers and Kubernetes Essentials for Modern Developers. Three courses are priced at $150, including Kubernetes Essentials for Modern Developers (appearing again with a different course ID), Creating RESTful APIs with FastAPI, and Using Git and GitHub for Team Collaboration. The highest-priced course in this group is Image Processing & Computer Vision with OpenCV, which costs $200.
 
 
 ### Users who joined in the last 6 months
@@ -33,7 +33,7 @@
 | U350        | Chinelo        | Nweke         | 2025-06-12      |
 
 
-# Nine users joined within the last six months, with join dates spread across February to June 2025. This indicates steady and consistent user registration over time.
+### Nine users joined within the last six months, with join dates spread across February to June 2025. This indicates steady and consistent user registration over time.
  
 
 ### Courses with selected tags
@@ -53,7 +53,7 @@
 | A008          | Assignment 8: Visualizing Data Insights Using Seaborn | 2025-06-16 |
 | A001          | Assignment 1: Foundations of AWS Cloud Services       | 2025-06-19 |
 
-# There are two upcoming assignments, both due in June 2025.
+### There are two upcoming assignments, both due in June 2025.
 
 
 ## Task 4.2: Aggregation Pipeline
@@ -74,7 +74,7 @@
 | C701      | 1                 |
 | C008      | 1                 |
 
-# The enrollment data shows that courses C004 and C001 have the highest participation, each with 3 enrollments. While other courses have 1 or 2 enrollments.
+### The enrollment data shows that courses C004 and C001 have the highest participation, each with 3 enrollments. While other courses have 1 or 2 enrollments.
 
 ### Average course rating
 
@@ -90,7 +90,7 @@
 | C008      | Version Control & Teamwork with Git and GitHub | Not Available  |
 | C701      | Using Git and GitHub for Team Collaboration    | Not Available  |
 
-# Ratings not available
+### Ratings not available
 
 ### Course by Category
 
@@ -102,7 +102,7 @@
 | Web Development  | 1             |
 | DevOps           | 1             |
 
-# The Data Engineering category has the most courses with 4, followed by AI with 2, while Machine Learning, Web Development, and DevOps each have 1 course.
+### The Data Engineering category has the most courses with 4, followed by AI with 2, while Machine Learning, Web Development, and DevOps each have 1 course.
 
 # 2. Student Performance Analysis
 
@@ -120,7 +120,7 @@
 | U008       | Not Available |
 | U016       | Not Available |
 | U014       | Not Available |
-# Two students have an average grade of 90.0, while the rest have no available grade data.
+### Two students have an average grade of 90.0, while the rest have no available grade data.
 
 ### Completion rate by courses (Data not available)
 
@@ -146,7 +146,7 @@
 | U011           | 2               |
 | U010           | 5               |
 
-# Instructor U010 has taught the most students (5), followed by U013 with 3 students, while others have taught between 1 and 2 students each.
+### Instructor U010 has taught the most students (5), followed by U013 with 3 students, while others have taught between 1 and 2 students each.
 
 
 ### Average rating per Instructor
@@ -160,7 +160,7 @@
 | U011          | Not Available  |
 | U015          | Not Available  |
 
-# Data not available
+### Data not available
 
 ### Revenue generated per Instructors
 
@@ -173,7 +173,7 @@
 | U009           | 150.0          |
 | U011           | 0.0            |
 
-# Instructor U010 has generated the highest revenue at \$700, followed by U013 with \$550, while U011 generated no revenue.
+### Instructor U010 has generated the highest revenue at \$700, followed by U013 with \$550, while U011 generated no revenue.
 
 
 # 4. Advanced Analytics
@@ -183,7 +183,7 @@
 | ---------- | ----------------- |
 | None-None  | 15                |
 
-# The enrollment data shows a total of 15 enrollments, but the year and month information is not available.
+### The enrollment data shows a total of 15 enrollments, but the year and month information is not available.
 
 ### Most popular course categories
 | Category         | Total Enrollments |
@@ -194,7 +194,7 @@
 | DevOps           | 1                 |
 | Machine Learning | 1                 |
 
-# Data Engineering has the highest number of enrollments at 7, with AI next at 4, and Web Development, DevOps, and Machine Learning having fewer enrollments.
+### Data Engineering has the highest number of enrollments at 7, with AI next at 4, and Web Development, DevOps, and Machine Learning having fewer enrollments.
 
 ### Student engagement metrics
 | user_id | courses_enrolled | assignments_submitted |
@@ -212,4 +212,4 @@
 | U005     | 0                 | 1                      |
 | U014     | 0                 | 1                      |
 
-# Some students have enrolled in multiple courses but submitted fewer assignments, while others have submitted assignments despite not being enrolled in any courses.
+### Some students have enrolled in multiple courses but submitted fewer assignments, while others have submitted assignments despite not being enrolled in any courses.
